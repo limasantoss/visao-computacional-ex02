@@ -1,4 +1,4 @@
-# Tarefa 02 — Suavização, Remoção de Ruído e Detecção de Bordas
+# Exercicio 02 — Suavização, Remoção de Ruído e Detecção de Bordas
 
 Projeto desenvolvido para a disciplina de **Visão Computacional**, utilizando imagens reais de um mini dataset próprio criado na atividade anterior.
 
